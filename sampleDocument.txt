@@ -1,2 +1,4 @@
 This is a document. Final Version.
 //problem solved
+
+//added some stuff from gitbash
